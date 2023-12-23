@@ -1,4 +1,4 @@
-module blockchaingo
+module github.com/golangblockchain/blockchaingo
 
 go 1.21.5
 
